@@ -2,20 +2,17 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Visualization and Analysis (Power BI)</b>
-  - [Sales Performance Dashboard](https://github.com/yourgithubusername/Sales-Dashboard)
+
 - <b>SQL Data Queries</b>
   - [Customer Behavior Analysis](https://github.com/yourgithubusername/Customer-Behavior-SQL)
 - <b>Python</b>
   - [Data Cleaning and Manipulation Scripts](https://github.com/yourgithubusername/Data-Cleaning-Scripts)
 - <b>Excel</b>
   - [Financial Modeling and Forecasting](https://github.com/yourgithubusername/Financial-Modeling-Excel)
+- <b>Data Visualisation and Analysis (Power BI)</b>
+  - [Sales Performance Dashboard](https://github.com/yourgithubusername/Sales-Dashboard)
 
-<h2>📺 Featured Work:</h2>
 
-- [How to Excel in Data Analytics](https://www.youtube.com/yourvideo1)
-- [Building Effective Dashboards in Power BI](https://www.youtube.com/yourvideo2)
-- [SQL for Data Analysts: Best Practices](https://www.youtube.com/yourvideo3)
 
 <h2> 🤳 Connect with me:</h2>
 
