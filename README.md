@@ -17,9 +17,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Ibrahim Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ibrahim Ali | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 
 [linkedin]: https://linkedin.com/in/ibrahimali03/
+[email]: mailto:ibrahiimali.0003@gmail.com
 
 <!--
 **yourgithubusername/yourgithubusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
