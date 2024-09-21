@@ -1,6 +1,6 @@
 # Ibrahim Ali
 
-### Junior Data Analyst | Python | SQL | Power BI
+### Data Analyst | Python | SQL | Power BI
 
 Motivated Data Analyst with hands-on experience in data collection, analysis, and visualisation. Skilled in using Python, SQL, Excel, and Power BI to deliver actionable insights. Passionate about technology and continuously learning to expand my skill set.
 
