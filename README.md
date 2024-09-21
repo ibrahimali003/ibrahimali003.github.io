@@ -1,27 +1,41 @@
-<h1>Hi, I'm Ibrahim Ali! <br/><a href="https://github.com/yourgithubusername">Data Analyst</a>, <a href="https://www.linkedin.com/in/yourlinkedinprofile">Tech Enthusiast</a>, <a href="https://www.yourportfolio.com">E-commerce Entrepreneur</a></h1>
+# Ibrahim Ali
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+### Junior Data Analyst | Python | SQL | Power BI
 
+Motivated Data Analyst with hands-on experience in data collection, analysis, and visualisation. Skilled in using Python, SQL, Excel, and Power BI to deliver actionable insights. Passionate about technology and continuously learning to expand my skill set.
 
-- <b>SQL Data Queries</b>
-  - [Customer Behavior Analysis](https://github.com/yourgithubusername/Customer-Behavior-SQL)
-- <b>Python</b>
-  - [Data Cleaning and Manipulation Scripts](https://github.com/yourgithubusername/Data-Cleaning-Scripts)
-- <b>Excel</b>
-  - [Financial Modeling and Forecasting](https://github.com/yourgithubusername/Financial-Modeling-Excel)
-- <b>Data Visualisation and Analysis (Power BI)</b>
-  - [Sales Performance Dashboard](https://github.com/yourgithubusername/Sales-Dashboard)
+---
 
+## 🛠️ **Skills**
+- Python, SQL, Excel, Power BI
+- Data Manipulation & Collection
+- Data Visualisation & Communication
+- Analytical Thinking & Problem Solving
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 📊 **Projects**
+1. **Exploratory Data Analysis**  
+   Conducted a detailed analysis of sales data, identifying key trends and insights
+
+2. **SQL Database Management**  
+   Designed and queried a database to track and analyze customer behavior for an e-commerce platform.
+
+3. **Power BI Dashboard**  
+   Built an interactive dashboard for visualising company sales data, highlighting key metrics and performance trends.
+
+---
+
+## 🤳 **Connect with me:**
 
 [<img align="left" alt="Ibrahim Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ibrahim Ali | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
+<br>
 
 [linkedin]: https://linkedin.com/in/ibrahimali03/
 [email]: mailto:ibrahiimali.0003@gmail.com
+
 
 <!--
 **yourgithubusername/yourgithubusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
